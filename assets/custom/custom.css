@@ -1,0 +1,133 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 23, 2019, 11:19:27 AM
+    Author     : BDTASK
+*/
+.navbar .btn-success{
+    margin: 13px 2px;
+}
+.displayblock{
+    display: block;
+}
+#toTop {
+    right: 0;
+}
+
+/*============== its for add customer page css ===========*/
+.nav.nav-tabs li a {
+    background-color: green;
+    color:white;
+}
+/*    .nav.nav-tabs li:not(.active) a {
+        pointer-events:none;
+        background-color: #2554C7;
+        color:white;
+    }*/
+/*.nav.nav-tabs li (.active) a{*/
+/*    .nav.nav-tabs li a:active{
+        background-color: red;
+        color:white;
+    }*/
+ul li a{
+    font-size: 12.5px;
+}
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus, 
+.nav-tabs>li.active>a:hover{
+    background-color: #3a3a3a;
+    color: #fff;
+}
+.select2-container{
+    width: 170px !important;
+}
+.leftfloat{
+    float: left;
+}
+.float_right{
+    float: right;
+}
+.custledgerdrcr{
+    float:right;margin-right:100px
+}
+/*=========== close customer page css ===========*/
+.modal-title{
+    float: left;
+}
+.m-t-20{
+    margin-top: 10px;
+}
+.m-l-20{
+    margin-left: 20px;
+}
+.m-l-5{
+    margin-left: 5px;
+} 
+.fnt_size_12{
+    font-size: 12px;
+}
+.bg_ddd{
+    background: #ddd;
+}
+.p-l-2{
+    padding-left: 2px;
+}
+.logintbl_form{
+    cursor:pointer;font-size:12px
+}
+.salesIdSearch_btn{
+    margin-left: 56px;
+}
+.supplierIdSearch_btn{
+    margin-left: 90px;
+}
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+.b-b-2-solid{
+    border-bottom:2px #333 solid;
+}
+.custom_hding{
+    font-size: 17pt; font-weight:bold;
+}
+#printableArea{
+    margin: 5px !important;
+}
+.selectDeselect_cls{
+    margin: 15px 20px -20px 0px; float: right;
+}
+.fa-folder{
+    color:#D4AC0D;
+}
+.fa-folder-open-o{
+    color:#D4AC0D;
+}
+.w-200{
+    width: 200px;
+}
+.w-200 select2-container{
+    width: 100%;
+}
+.p-5{
+    padding: 5px;
+}
+.m-20{
+    margin: 20px
+}
+.m-l-100{
+    margin-left: 100px;
+}
+#ReportName{
+    font:'Times New Roman', Times, serif; font-size:20px;
+}
+.w-25p{
+    width: 25%;
+}
+.m-t-200-m-b-200{
+    margin-top:200px;margin-bottom:200px
+}

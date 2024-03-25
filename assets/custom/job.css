@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 23, 2019, 11:19:27 AM
+    Author     : BDTASK
+*/ 
+.select2-container {
+    display: block;
+    width: 100% !important;
+}
+.modal-title{
+    float: left;
+}
+.nav-tabs{
+    border-bottom: 1px solid #ddd;
+}
+.nav-tabs>li.active, .nav-tabs>li.active>a, .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus{
+    border-bottom-color: transparent;
+}
+.float_right{
+    float: right;
+} 
+.select2-container{
+    width: 100% !important;
+}
+#customer_info{
+    color:green;font-weight: bold
+}
+.recommendation_txt{
+    min-height: 100px; margin: 20px 0; text-align: justify;
+}

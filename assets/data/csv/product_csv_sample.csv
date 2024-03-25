@@ -1,0 +1,2 @@
+producr_id,supplier_id,category_id,product_name,price,supplier_price,unit,tax,serial_no,  product_model,product_details,  image,minimum_stock,reorder_level,product_location,global_markup,individual_markup,notes,status
+12354654,5L17E6L41VW94TRO7XJU,V9FVI6U7FAG1W1E,Isahq,200,150,pc,50,111111,TEST-4545,This is csv product,http://localhost/inventory_demo/sales_erp/my-assets/image/product.png,,,,,,,1
